@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\Projects\Projects\bin\Debug\net8.0\Projects.exe
+C:\Users\user\source\repos\Projects\Projects\bin\Debug\net8.0\Projects.deps.json
+C:\Users\user\source\repos\Projects\Projects\bin\Debug\net8.0\Projects.runtimeconfig.json
+C:\Users\user\source\repos\Projects\Projects\bin\Debug\net8.0\Projects.dll
+C:\Users\user\source\repos\Projects\Projects\bin\Debug\net8.0\Projects.pdb
+C:\Users\user\source\repos\Projects\Projects\obj\Debug\net8.0\Projects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Projects\Projects\obj\Debug\net8.0\Projects.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Projects\Projects\obj\Debug\net8.0\Projects.AssemblyInfo.cs
+C:\Users\user\source\repos\Projects\Projects\obj\Debug\net8.0\Projects.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Projects\Projects\obj\Debug\net8.0\Projects.dll
+C:\Users\user\source\repos\Projects\Projects\obj\Debug\net8.0\refint\Projects.dll
+C:\Users\user\source\repos\Projects\Projects\obj\Debug\net8.0\Projects.pdb
+C:\Users\user\source\repos\Projects\Projects\obj\Debug\net8.0\Projects.genruntimeconfig.cache
+C:\Users\user\source\repos\Projects\Projects\obj\Debug\net8.0\ref\Projects.dll
+C:\Users\user\source\repos\Projects\Projects\obj\Debug\net8.0\Projects.csproj.Up2Date
